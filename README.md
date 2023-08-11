@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hideki Hirose</h1>
 <h3 align="center">A fullstack developer from Brazil, but currently living in Japan</h3>
 
-- 🔭 I’m currently working on **Sustainability Page**
-- 🌱 I’m currently learning **Nextjs and Redux**
+- 🔭 I’m currently working on **Home Decor and Travel N Share**
+- 🌱 I’m currently learning **Nextjs, Redux and Python**
 - 📫 How to reach me: **fabiohidekihirose@gmail.com**
 
 ### :hammer_and_wrench: Connect with me :
